@@ -4,6 +4,7 @@
 - 📫 Contate-me no e-mail: viniciustrajanobs@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Trajanovinicius.png" alt="TryHackMe">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Trajano;I'm+21+years+old;I'm+from+Brazil;I'm+a+software+engineering+student;and+backend+developer+node;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
