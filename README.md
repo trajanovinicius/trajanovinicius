@@ -1,6 +1,6 @@
 ### Hi! Eu sou o Vinicius Trajano
 - 🔭 Atualmente trabalhando com back-end
-- 🌱 Estudante de Engenharia de software
+- 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 📫 Contate-me no e-mail: viniciustrajanobs@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
